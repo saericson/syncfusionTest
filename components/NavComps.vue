@@ -64,7 +64,7 @@ export default {
         },
         {
           icon: 'mdi-text-box-outline',
-          title: 'Two Charts',
+          title: 'DashBoard',
           to: '/twocharts',
         },
       ],
